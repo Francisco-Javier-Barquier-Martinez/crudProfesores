@@ -1,0 +1,21 @@
+{
+    "name": "franc/crud-profesores",
+    "description": "Practica departamentos y profesores",
+    "type": "project",
+    "license": "GNU",
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Francisco Javier Barquier Martinez",
+            "email": "47178869+Francisco-Javier-Barquier-Martinez@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
